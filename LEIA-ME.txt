@@ -1,0 +1,13 @@
+CT THIAGO NASCIMENTO — VERSÃO CORRIGIDA
+
+Coloque sua imagem "thiago-nascimento.jpeg" na mesma pasta.
+
+Correções principais:
+- contadores corrigidos;
+- seção repetida removida;
+- link Conhecer o método corrigido;
+- placeholder TN removido;
+- identidade visual unificada em azul e amarelo;
+- melhorias de responsividade;
+- animações suaves;
+- JavaScript mais robusto.
